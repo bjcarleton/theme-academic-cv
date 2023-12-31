@@ -96,7 +96,7 @@ social:
     link: '/#contact'
   - icon: twitter
     icon_pack: fab
-    link: 
+    link: twitter.com/carleton_ben
     label: Follow me on Twitter
     display:
       header: true
@@ -105,10 +105,10 @@ social:
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/bjcarleton
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: www.linkedin.com/in/benjamin-carleton 
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
