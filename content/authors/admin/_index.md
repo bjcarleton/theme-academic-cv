@@ -120,5 +120,5 @@ social:
 highlight_name: true
 ---
 
-I am an Associate Research Analyst with CNA's Center for Justice Research and Innovation and a PhD student in the Department of Criminology, Law and Society at George Mason University.
+Ben is an Associate Research Analyst with CNA's Center for Justice Research and Innovation and a PhD student in the Department of Criminology, Law and Society at George Mason University. He also serves as a Graduate Research Assistant for the Center for Evidence-Based Crime Policy. 
 {style="text-align: justify;"}
