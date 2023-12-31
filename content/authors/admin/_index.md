@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Associate Research Analyst/Criminology, Law and Society PhD Student
+role: Associate Research Analyst
 
 # Organizations/Affiliations to show in About widget
 organizations:
